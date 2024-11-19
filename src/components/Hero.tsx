@@ -31,7 +31,7 @@ export default function Hero() {
                 <ChevronRight className="inline-block ml-2 w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/212661507238" 
+                href="https://wa.me/+33695628795" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="px-6 py-3 border border-neutral-800 text-neutral-300 hover:border-[#8C1C11] hover:text-[#8C1C11] transition-all duration-300"
@@ -58,7 +58,7 @@ export default function Hero() {
                     {[...Array(5)].map((_, i) => (
                       <Star key={i} className="w-4 h-4 text-[#8C1C11]" fill="currentColor" />
                     ))}
-                  </div>
+                  </div> 
                 </div>
               </div>
             </div>
